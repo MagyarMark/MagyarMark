@@ -1,10 +1,14 @@
-<h2 align="center">Hali! Magyar Márk vagyok egy kezdő fullsack fejlesztő, Magyarországról</h2>
+<h2 align="center">Hali! Magyar Márk vagyok egy kezdő fullsack fejlesztő!</h2>
 
 ###
 
 <div align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=MagyarMark&theme=dracula&show_icons=true">
+  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=MagyarMark&theme=dracula&layout=compact">
+
 </div>
+
+
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
