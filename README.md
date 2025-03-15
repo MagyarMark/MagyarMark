@@ -1,4 +1,4 @@
-r<h2 align="center">Hali! Magyar Márk vagyok egy kezdő fullsack fejlesztő, Magyarországról</h2>
+<h2 align="center">Hali! Magyar Márk vagyok egy kezdő fullsack fejlesztő, Magyarországról</h2>
 
 ###
 
@@ -8,6 +8,11 @@ r<h2 align="center">Hali! Magyar Márk vagyok egy kezdő fullsack fejlesztő, Ma
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MagyarMark/MagyarMark/output/snake.svg" alt="Snake animation" />
+
+###
 <!--
 **MagyarMark/MagyarMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
