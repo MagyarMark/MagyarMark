@@ -8,6 +8,7 @@
   <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MagyarMark&layout=compact&langs_count=8&card_width=320&theme=dracula" height="195" />
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=MagyarMark&label=Profile%20views&color=0e75b6&style=flat"
 
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
