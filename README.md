@@ -1,4 +1,4 @@
-<h2 align="left">Hali! Magyar Márk vagyok egy kezdő fullsack fejlesztő, Magyarországról</h2>
+r<h2 align="center">Hali! Magyar Márk vagyok egy kezdő fullsack fejlesztő, Magyarországról</h2>
 
 ###
 
