@@ -8,10 +8,6 @@
     srcset="https://github-readme-stats.vercel.app/api?username=MagyarMark&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    media="(prefers-color-scheme: black), (prefers-color-scheme: orange)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MagyarMark&show_icons=true" />
 </picture></div>
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
