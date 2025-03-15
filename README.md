@@ -1,4 +1,4 @@
-<h2 align="center">Hali! Magyar Márk vagyok egy kezdő fullsack fejlesztő!</h2>
+<h2 align="center">Hali! Magyar Márk vagyok egy kezdő fullstack fejlesztő!</h2>
 
 ###
 
