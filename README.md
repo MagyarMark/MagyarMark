@@ -3,16 +3,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MagyarMark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MagyarMark/MagyarMark/output/snake.svg" alt="Snake animation" />
-
-###
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?MagyarMark=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?MagyarMark=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?MagyarMark=anuraghazra&show_icons=true" />
+</picture></div>
 <!--
 **MagyarMark/MagyarMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
