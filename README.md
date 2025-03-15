@@ -5,7 +5,7 @@
 
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=MagyarMark&theme=dracula&show_icons=true&card_width=440"/> 
-  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MagyarMark&layout=compact&langs_count=8&card_width=300&theme=dracula" height="195" />
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MagyarMark&layout=compact&langs_count=8&card_width=310&theme=dracula" height="195" />
 </div>
 
 
