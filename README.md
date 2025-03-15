@@ -4,11 +4,8 @@
 
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MagyarMark&theme=dracula&show_icons=true&card_width=400" height="195" />
-  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MagyarMark&theme=dracula&show_icons=true&card_width=400" height="195" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MagyarMark&layout=compact&langs_count=8&card_width=400&theme=dracula" height="195" />
-</div>
-
 </div>
 
 
