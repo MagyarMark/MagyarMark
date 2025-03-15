@@ -4,8 +4,7 @@
 
 <div align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=MagyarMark&theme=dracula&show_icons=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MagyarMark&layout=compact&langs_count=8&card_width=320" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MagyarMark&layout=compact&langs_count=8&card_width=466&theme=dracula" />
 </div>
 
 
