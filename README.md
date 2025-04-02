@@ -4,8 +4,8 @@
 
 
 <div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MagyarMark&theme=dracula&show_icons=true&card_width=440"/>
-  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MagyarMark&layout=compact&langs_count=8&card_width=320&theme=dracula" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MagyarMark&theme=dracula&show_icons=true&card_width=440&cache_seconds=0"/>
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MagyarMark&layout=compact&langs_count=8&card_width=320&theme=dracula&cache_seconds=0" height="195" />
 </div>
 
 <!--  <img src="https://komarev.com/ghpvc/?username=MagyarMark&label=Profile%20views&color=0e75b6&style=flat"/>  -->
