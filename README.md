@@ -8,7 +8,7 @@
   <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MagyarMark&layout=compact&langs_count=8&card_width=320&theme=dracula&cache_seconds=0" height="195" />
 </div>
 
-<h2 align="center">Szabadidőmben csinálgatom a weboldalamat amit itt tudsz megtekinteni-><a href="https://magyarmark.github.io/ProgiSuli/index.html" target="_blank"> ProgiSuli</a></h2>
+<h2 align="center">Weboldalam-><a href="https://magyarmark.github.io/ProgiSuli/index.html" target="_blank"> ProgiSuli</a></h2>
 
 <!--  <img src="https://komarev.com/ghpvc/?username=MagyarMark&label=Profile%20views&color=0e75b6&style=flat"/>  -->
 
