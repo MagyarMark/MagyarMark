@@ -1,14 +1,19 @@
-<h2 align="center">Hali! Magyar Márk vagyok egy kezdő fullstack fejlesztő!</h2>
+<h1 align="center">Szia! 👋 Magyar Márk vagyok</h1>
+<h3 align="center">🚀 Kezdő fullstack fejlesztő 🚀</h3>
 
-###
+---
 
-
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MagyarMark&theme=dracula&show_icons=true&card_width=440&cache_seconds=0"/>
-  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MagyarMark&layout=compact&langs_count=8&card_width=320&theme=dracula&cache_seconds=0" height="195" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MagyarMark&theme=dracula&show_icons=true&cache_seconds=0" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MagyarMark&layout=compact&langs_count=8&theme=dracula&cache_seconds=0" width="38%"  />
 </div>
 
-<h2 align="center">Weboldalam-><a href="https://magyarmark.github.io/ProgiSuli/index.html" target="_blank"> ProgiSuli</a></h2>
+---
+
+<h3 align="center">🌐 Weboldalam 🌐</h3>
+<p align="center">
+  👉 <a href="https://magyarmark.github.io/ProgiSuli/index.html" target="_blank"><strong>ProgiSuli</strong></a> 👈
+</p>
 
 <!--  <img src="https://komarev.com/ghpvc/?username=MagyarMark&label=Profile%20views&color=0e75b6&style=flat"/>  -->
 
