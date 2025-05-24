@@ -15,6 +15,15 @@
   👉 <a href="https://magyarmark.github.io/ProgiSuli/index.html" target="_blank"><strong>ProgiSuli</strong></a> 👈
 </p>
 
+---
+
+<h3 align="center">☕Támogass egy kávéval☕</h3>
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P61FGQJ2)
+
+</div>
+
 <!--  <img src="https://komarev.com/ghpvc/?username=MagyarMark&label=Profile%20views&color=0e75b6&style=flat"/>  -->
 
 <!--
