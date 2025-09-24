@@ -5,8 +5,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MagyarMark&theme=dracula&show_icons=true&cache_seconds=0" width="48%" />
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MagyarMark&layout=compact&langs_count=8&theme=dracula&cache_seconds=0" width="38%"  />-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MagyarMark&layout=compact&langs_count=8&theme=dracula&cache_seconds=0" width="38%"  />
 </div>
+
+  
 
 ---
 
