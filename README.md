@@ -1,14 +1,33 @@
 <h1 align="center">Szia! 👋 Magyar Márk vagyok</h1>
 
 <p align="center">
-  <em>Frontend fejlesztő | C# alapú alkalmazások | Oktató és játékos projektek</em>
+  <em>Webfejlesztő & Designer · Szoftverfejlesztő és tesztelő technikus · Oktató</em>
+</p>
+
+<p align="center">
+  <a href="https://magyarmark.github.io/"><img src="https://img.shields.io/badge/Portfólió-magyarmark.github.io-e2552b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólió" /></a>
+  <a href="mailto:markmagyar123@gmail.com"><img src="https://img.shields.io/badge/E--mail-markmagyar123%40gmail.com-1b1a17?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 Rólam
-- 🛠️ Frontend webes megoldásokat és C# alapú alkalmazásokat készítek  
-- 📚 Folyamatosan fejlesztem magam  
+
+- 💼 Kecskeméten egy cég **informatikai részlegén** dolgozom
+- 🎓 Programozást, webfejlesztést és informatikát tanítok a **Dr.Code Digitális Oktatási Központban**
+- 🌐 Szabadúszóként **weboldalakat** és **CRM rendszereket** fejlesztek ügyfeleknek
+- 📚 Mérnökinformatikus BSc-t tanulok a **Neumann János Egyetem GAMF** karán
+- ✨ Az erősségem a reszponzív webdesign és a tiszta kód
+
+---
+
+### 🤝 Miben segíthetek?
+
+| 🌐 Weboldalkészítés | 👥 CRM fejlesztés | 🎓 Oktatás és korrepetálás |
+| :--- | :--- | :--- |
+| Komplett weboldal **az elejétől a végéig**: tervezés, fejlesztés, élesítés, támogatás | Cégre szabott ügyfélkezelő rendszer, **frontenddel és backenddel** együtt | Python, C#, webfejlesztés, érettségi felkészítés, MI-workshopok pedagógusoknak |
+
+<p align="center"><strong>💬 Ár: megbeszélés alapján</strong> · <a href="mailto:markmagyar123@gmail.com?subject=Ajánlatkérés">Kérj ajánlatot →</a></p>
 
 ---
 
@@ -16,58 +35,46 @@
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,bootstrap&theme=dark" alt="HTML, CSS, JavaScript, Vue, Vite, Bootstrap" />
 </p>
 
 ### ⚙️ Backend / Programozás
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,mysql,postgresql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,mysql,postgresql&theme=dark" alt="Python, C#, .NET, MySQL, PostgreSQL" />
 </p>
 
-### 🧰 Tools
+### 🧰 Eszközök
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio&theme=dark" alt="Figma, Git, GitHub, VS Code, Visual Studio" />
 </p>
 
 ---
 
-## 🌐 Fő projektem
-<p align="center">
-  👉 <a href="https://magyarmark.github.io/ProgiSuli/index.html" target="_blank">
-    <strong>ProgiSuli – Interaktív programozás tanulása</strong>
-  </a> 👈
-</p>
+## 🚀 Kiemelt projektek
+
+| Projekt | Leírás | Technológiák |
+| :--- | :--- | :--- |
+| 📘 **[ProgiSuli](https://magyarmark.github.io/ProgiSuli/)** | Saját oktatási platform: Python, C# és webfejlesztés tananyagok, valamint a *Dungeon of Code* kódolós kalandjáték | HTML · CSS · JavaScript |
+| 📊 **[Smart Manager](https://github.com/MagyarMark/13_S2_4_vizsgaremek)** | Oktatási projektmenedzsment-rendszer valós idejű chattel és videóhívással (technikusi vizsgaremek, én készítettem a frontendet) | Vue 3 · Node.js · PostgreSQL · Socket.IO |
+| 🍔 **[Falatka Bistro](https://magyarmark.github.io/Falatka/)** | Modern, mobilbarát weboldal egy bisztrónak (ügyfélmunka) | HTML · CSS · JavaScript |
+| 🔒 **CRM rendszerek** | Összetett ügyfélkapcsolati rendszerek ügyfeleknek (az ügyféladatok miatt nem nyilvánosak) | Frontend · Backend |
 
 ---
 
-## ☕ Támogass egy kávéval
-<div align="center">
+<details>
+<summary>🇬🇧 <strong>English</strong></summary>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P61FGQJ2)
+<br />
 
-</div>
+**Hi! I'm Magyar Márk**, a web developer, designer and educator based in Kecskemét, Hungary.
 
+- 💼 I work in the IT department of a company in Kecskemét
+- 🎓 I teach programming, web development and IT at the Dr.Code Digital Education Center
+- 🌐 As a freelancer, I build **complete websites from start to finish** and custom **CRM systems** (price by agreement)
+- 📚 I'm studying Computer Engineering (BSc) at John von Neumann University, GAMF
 
-<!--<h3 align="center">🚀 Kezdő Full-Stack fejlesztő 🚀</h3>-->
-<!--
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MagyarMark&theme=dracula&show_icons=true&cache_seconds=0" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MagyarMark&layout=compact&langs_count=8&theme=dracula&cache_seconds=0" width="38%" />
-</div>
--->
-<!--  <img src="https://komarev.com/ghpvc/?username=MagyarMark&label=Profile%20views&color=0e75b6&style=flat"/>  -->
+📫 Get in touch: **markmagyar123@gmail.com** · 🌐 **[magyarmark.github.io](https://magyarmark.github.io/)**
 
-<!--
-**username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
