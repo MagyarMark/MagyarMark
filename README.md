@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://magyarmark.github.io/"><img src="https://img.shields.io/badge/Portfólió-magyarmark.github.io-e2552b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólió" /></a>
+  <a href="https://mm.markmagyar123.workers.dev/"><img src="https://img.shields.io/badge/Portfólió-magyarmark.github.io-e2552b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólió" /></a>
   <a href="mailto:markmagyar123@gmail.com"><img src="https://img.shields.io/badge/E--mail-markmagyar123%40gmail.com-1b1a17?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
